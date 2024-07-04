@@ -28,7 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pamelalmeidaa/pamelalmeidaa/output/snake.svg" alt="Snake animation" />
 
 ###
 
