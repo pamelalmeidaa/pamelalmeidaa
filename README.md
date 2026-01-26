@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 Atualmente estou em transição de carreira e participando do bootcamp da Generation Brasil.<br>🌱 Estou estudando Javascript/Typescript para desenvolvimento de software.<br> </p>
+<p align="left">🌱 Estudando e aplicando JavaScript, TypeScript e tecnologias modernas de front-end e back-end.  <br> </p>
 
 ###
 
