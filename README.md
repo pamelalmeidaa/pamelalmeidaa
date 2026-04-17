@@ -22,11 +22,24 @@
 
 [![Weather App Python](https://img.shields.io/badge/🌤️_Weather_App_Python-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pamelalmeidaa/weather-app-python)
 
-App de clima em Python com API Open-Meteo, cache local, testes automatizados e interface web.
+Aplicação de previsão do tempo desenvolvida em Python, utilizando a API Open-Meteo, com cache local, testes automatizados e interface web.
 
 ---
 
-## 📊 Social Mídia
+### 💊 Projeto Vital (em grupo)
+
+Projeto desenvolvido em equipe durante o bootcamp, com foco em soluções voltadas à área da saúde.
+
+A equipe trabalhou com divisão de papéis e rotatividade de funções a cada task, proporcionando experiência prática em diferentes responsabilidades dentro do time.
+
+
+🔗 https://github.com/Projeto-Vital
+
+---
+
+## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamelasalgadoa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itpaam)
+
+
